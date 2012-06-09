@@ -1,1 +1,6 @@
 node_modules
+.tm_properties
+android/.classpath
+android/.project
+android/.settings
+android/local.properties

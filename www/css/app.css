@@ -1,0 +1,20 @@
+#source-image-container {
+  position: relative;
+  max-width: 100%;
+  max-height: 70%;
+}
+
+#source-image {
+  height: 100%;
+  width: 100%;
+}
+
+#overlay {
+  visibility: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  text-align:center;
+  z-index: 1000;
+  border: dashed black 2px;
+}
